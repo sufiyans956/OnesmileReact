@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/OnesmileReact/static/css/main.0abef13c.css",
+    "main.js": "/OnesmileReact/static/js/main.db7fa566.js",
+    "static/media/img2.jpeg": "/OnesmileReact/static/media/img2.dc42a737d85afc2c1ce8.jpeg",
+    "static/media/IMG_9734.jpeg": "/OnesmileReact/static/media/IMG_9734.b34aa6973566c4c03cfc.jpeg",
+    "static/media/IMG_9733.jpeg": "/OnesmileReact/static/media/IMG_9733.b204c484ca33210bb424.jpeg",
+    "static/media/loginbackgroud.jpg": "/OnesmileReact/static/media/loginbackgroud.e7f9498ebb83e5525dce.jpg",
+    "static/media/paymentqr.jpeg": "/OnesmileReact/static/media/paymentqr.bbd297ffe2240a4d0fe2.jpeg",
+    "static/media/starCrop.png": "/OnesmileReact/static/media/starCrop.0a28ee8de40e1672b637.png",
+    "static/media/starCrop4.png": "/OnesmileReact/static/media/starCrop4.322e303b81f23bd81857.png",
+    "static/media/logo1.png": "/OnesmileReact/static/media/logo1.9e575949fb3b68694b94.png",
+    "index.html": "/OnesmileReact/index.html",
+    "main.0abef13c.css.map": "/OnesmileReact/static/css/main.0abef13c.css.map",
+    "main.db7fa566.js.map": "/OnesmileReact/static/js/main.db7fa566.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0abef13c.css",
+    "static/js/main.db7fa566.js"
+  ]
+}
