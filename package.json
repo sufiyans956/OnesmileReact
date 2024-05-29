@@ -20,7 +20,7 @@
     "route": "^0.2.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage":"https://sufiyans956.github.io/"
+  "homepage":"http://sufiyans956.github.io/"
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
